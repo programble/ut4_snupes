@@ -5,6 +5,10 @@ URTDIR = /opt/urbanterror
 MAPNAME = ut4_snupes
 MAP := maps/$(MAPNAME).map
 BSP := maps/$(MAPNAME).bsp
+PK3 := $(MAPNAME).pk3
+
+TEXTURES := $(shell find textures -name "*.tga")
+SCRIPTS := $(wildcard scripts/*)
 
 Q3MAP2_THREADS = 4
 
@@ -13,30 +17,35 @@ Q3MAP2_META_OPTIONS = -patchmeta -subdivisions 1
 Q3MAP2_VIS_OPTIONS = -saveprt
 Q3MAP2_LIGHT_OPTIONS = -nocollapse -fast -samples 3 -bounce 2 -patchshadows
 
+pk3: $(PK3)
+$(PK3): $(BSP) $(TEXTURES) $(SCRIPTS)
+	zip $@ $?
+
 bsp: $(BSP)
 $(BSP): $(MAP)
 	$(Q3MAP2) $(Q3MAP2_OPTIONS) -meta $(Q3MAP2_META_OPTIONS) $<
 	$(Q3MAP2) $(Q3MAP2_OPTIONS) -vis $(Q3MAP2_VIS_OPTIONS) $<
 	$(Q3MAP2) $(Q3MAP2_OPTIONS) -light $(Q3MAP2_LIGHT_OPTIONS) $<
 
-ffa-test: $(BSP)
-	cp $< ~/.urbanterror/q3ut4/maps/
+ffa-test: $(PK3)
+	cp $< ~/.urbanterror/q3ut4/
 	$(URT) +set sv_pure 0 +set g_gametype 0 +devmap $(MAPNAME)
-	rm ~/.urbanterror/q3ut4/maps/$(MAPNAME).bsp
+	rm ~/.urbanterror/q3ut4/$(MAPNAME).pk3
 
-tdm-test: $(BSP)
-	cp $< ~/.urbanterror/q3ut4/maps/
+tdm-test: $(PK3)
+	cp $< ~/.urbanterror/q3ut4/
 	$(URT) +set sv_pure 0 +set g_gametype 3 +devmap $(MAPNAME)
-	rm ~/.urbanterror/q3ut4/maps/$(MAPNAME).bsp
+	rm ~/.urbanterror/q3ut4/$(MAPNAME).pk3
 
-ts-test: $(BSP)
-	cp $< ~/.urbanterror/q3ut4/maps/
+ts-test: $(PK3)
+	cp $< ~/.urbanterror/q3ut4/
 	$(URT) +set sv_pure 0 +set g_gametype 4 +devmap $(MAPNAME)
-	rm ~/.urbanterror/q3ut4/maps/$(MAPNAME).bsp
+	rm ~/.urbanterror/q3ut4/$(MAPNAME).pk3
 
 clean:
+	rm -f $(PK3)
 	rm -f $(BSP)
 	rm -f maps/$(MAPNAME).prt
 	rm -f maps/$(MAPNAME).srf
 
-.PHONY: clean bsp ffa-test tdm-test ts-test
+.PHONY: clean pk3 bsp ffa-test tdm-test ts-test
