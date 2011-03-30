@@ -1,5 +1,6 @@
 // entity 0
 {
+"message" "Snuping time!"
 "precipAmount" "512"
 "enablePrecip" "1"
 "classname" "worldspawn"
@@ -649,7 +650,7 @@
 // entity 9
 {
 "classname" "target_print"
-"origin" "128 640 496"
+"origin" "320 0 368"
 "message" "User flew too high, wax wings melted"
 "targetname" "icarus"
 }
