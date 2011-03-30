@@ -621,7 +621,7 @@
 }
 // entity 6
 {
-"light" "40"
+"light" "45"
 "origin" "-904 -696 192"
 "classname" "light"
 }
@@ -629,7 +629,7 @@
 {
 "classname" "light"
 "origin" "-904 696 192"
-"light" "40"
+"light" "45"
 }
 // entity 8
 {
@@ -753,7 +753,7 @@
 }
 // entity 23
 {
-"light" "40"
+"light" "45"
 "origin" "1536 696 192"
 "classname" "light"
 }
@@ -761,7 +761,7 @@
 {
 "classname" "light"
 "origin" "1536 -696 192"
-"light" "40"
+"light" "45"
 }
 // entity 25
 {
