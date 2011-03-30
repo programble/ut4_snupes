@@ -678,13 +678,13 @@
 {
 "classname" "light"
 "origin" "-512 -576 192"
-"light" "25"
+"light" "30"
 "radius" "32"
 }
 // entity 13
 {
 "radius" "32"
-"light" "25"
+"light" "30"
 "origin" "-512 576 192"
 "classname" "light"
 }
@@ -734,13 +734,13 @@
 {
 "classname" "light"
 "origin" "1144 576 192"
-"light" "25"
+"light" "30"
 "radius" "32"
 }
 // entity 21
 {
 "radius" "32"
-"light" "25"
+"light" "30"
 "origin" "1144 -576 192"
 "classname" "light"
 }
