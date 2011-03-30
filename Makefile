@@ -22,3 +22,5 @@ clean:
 	rm -f $(BSP)
 	rm -f maps/$(MAPNAME).prt
 	rm -f maps/$(MAPNAME).srf
+
+.PHONY: clean bsp
