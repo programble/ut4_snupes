@@ -43,6 +43,11 @@ ts-test: $(PK3)
 	$(URT) +set sv_pure 0 +set g_gametype 4 +devmap $(MAPNAME)
 	rm ~/.urbanterror/q3ut4/$(MAPNAME).pk3
 
+ctf-test: $(PK3)
+	cp $< ~/.urbanterror/q3ut4/
+	$(URT) +set sv_pure 0 +set g_gametype 7 +devmap $(MAPNAME)
+	rm ~/.urbanterror/q3ut4/$(MAPNAME).pk3
+
 clean:
 	rm -f $(PK3)
 	rm -f $(BSP)
