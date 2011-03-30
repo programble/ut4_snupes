@@ -54,4 +54,4 @@ clean:
 	rm -f maps/$(MAPNAME).prt
 	rm -f maps/$(MAPNAME).srf
 
-.PHONY: clean pk3 bsp ffa-test tdm-test ts-test
+.PHONY: clean pk3 bsp ffa-test tdm-test ts-test ctf-test
