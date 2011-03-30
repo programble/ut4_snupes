@@ -9,6 +9,7 @@ PK3 := $(MAPNAME).pk3
 
 TEXTURES := $(shell find textures -name "*.tga")
 SCRIPTS := $(wildcard scripts/*)
+READMES := $(shell find . -name "*readme.txt")
 
 Q3MAP2_THREADS = 4
 
@@ -18,7 +19,7 @@ Q3MAP2_VIS_OPTIONS = -saveprt
 Q3MAP2_LIGHT_OPTIONS = -nocollapse -fast -samples 3 -bounce 2 -patchshadows
 
 pk3: $(PK3)
-$(PK3): $(BSP) $(TEXTURES) $(SCRIPTS)
+$(PK3): $(BSP) $(TEXTURES) $(SCRIPTS) $(READMES)
 	zip $@ $?
 
 bsp: $(BSP)
