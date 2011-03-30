@@ -1,6 +1,6 @@
 // entity 0
 {
-"precipAmount" "1000"
+"precipAmount" "512"
 "enablePrecip" "1"
 "classname" "worldspawn"
 // brush 0
