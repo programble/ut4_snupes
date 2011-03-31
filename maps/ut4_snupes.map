@@ -1247,3 +1247,28 @@
 "origin" "-848 0 408"
 "classname" "team_CTF_blueflag"
 }
+// entity 91
+{
+"origin" "896 512 24"
+"classname" "team_CAH_capturepoint"
+}
+// entity 92
+{
+"classname" "team_CAH_capturepoint"
+"origin" "896 -576 24"
+}
+// entity 93
+{
+"origin" "-256 -576 24"
+"classname" "team_CAH_capturepoint"
+}
+// entity 94
+{
+"classname" "team_CAH_capturepoint"
+"origin" "-256 512 24"
+}
+// entity 95
+{
+"origin" "320 0 96"
+"classname" "team_CAH_capturepoint"
+}
