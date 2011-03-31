@@ -3,7 +3,7 @@
 "classname" "worldspawn"
 "enablePrecip" "1"
 "precipAmount" "512"
-"message" "Snuping time!"
+"message" "Snupes by Programble"
 // brush 0
 {
 ( -760 744 56 ) ( -776 744 56 ) ( -776 -1232 56 ) common/caulk 16 0 0 0.500000 0.500000 0 4 0
