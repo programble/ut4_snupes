@@ -11,6 +11,7 @@ TEXTURES := $(shell find textures -name "*.tga")
 SCRIPTS := $(wildcard scripts/*)
 READMES := $(shell find . -name "*readme.txt")
 LEVELSHOT := levelshots/$(MAPNAME).jpg
+MINIMAP := maps/$(MAPNAME).TGA
 
 Q3MAP2_THREADS = 4
 
@@ -20,7 +21,7 @@ Q3MAP2_VIS_OPTIONS = -saveprt
 Q3MAP2_LIGHT_OPTIONS = -nocollapse -fast -samples 3 -bounce 2 -patchshadows
 
 pk3: $(PK3)
-$(PK3): $(BSP) $(TEXTURES) $(SCRIPTS) $(READMES) $(LEVELSHOT)
+$(PK3): $(BSP) $(TEXTURES) $(SCRIPTS) $(READMES) $(LEVELSHOT) $(MINIMAP)
 	zip $@ $?
 
 bsp: $(BSP)
