@@ -1326,3 +1326,63 @@
 "classname" "team_CAH_capturepoint"
 "origin" "320 0 96"
 }
+// entity 96
+{
+"angle" "90"
+"origin" "-256 528 40"
+"classname" "info_player_deathmatch"
+}
+// entity 97
+{
+"classname" "info_player_deathmatch"
+"origin" "-256 -528 40"
+"angle" "270"
+}
+// entity 98
+{
+"classname" "info_player_deathmatch"
+"origin" "896 528 40"
+"angle" "90"
+}
+// entity 99
+{
+"angle" "270"
+"origin" "896 -528 40"
+"classname" "info_player_deathmatch"
+}
+// entity 100
+{
+"classname" "info_player_deathmatch"
+"origin" "320 528 40"
+"angle" "90"
+}
+// entity 101
+{
+"angle" "270"
+"origin" "320 -528 40"
+"classname" "info_player_deathmatch"
+}
+// entity 102
+{
+"angle" "360"
+"origin" "688 224 40"
+"classname" "info_player_deathmatch"
+}
+// entity 103
+{
+"classname" "info_player_deathmatch"
+"origin" "688 -224 40"
+"angle" "360"
+}
+// entity 104
+{
+"classname" "info_player_deathmatch"
+"origin" "-48 224 40"
+"angle" "180"
+}
+// entity 105
+{
+"angle" "180"
+"origin" "-48 -224 40"
+"classname" "info_player_deathmatch"
+}
