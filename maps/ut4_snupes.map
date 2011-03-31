@@ -1304,21 +1304,21 @@
 // entity 91
 {
 "classname" "team_CAH_capturepoint"
-"origin" "896 512 24"
+"origin" "896 448 96"
 }
 // entity 92
 {
-"origin" "896 -576 24"
+"origin" "896 -448 96"
 "classname" "team_CAH_capturepoint"
 }
 // entity 93
 {
 "classname" "team_CAH_capturepoint"
-"origin" "-256 -576 24"
+"origin" "-256 -448 96"
 }
 // entity 94
 {
-"origin" "-256 512 24"
+"origin" "-256 448 96"
 "classname" "team_CAH_capturepoint"
 }
 // entity 95
