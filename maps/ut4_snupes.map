@@ -240,15 +240,6 @@
 }
 // brush 26
 {
-( -1088 -776 512 ) ( -1088 -808 512 ) ( -1088 -808 0 ) common/caulk -16 0 0 0.500000 0.500000 0 4 0
-( 1728 -768 512 ) ( -320 -768 512 ) ( -320 -768 0 ) trak4/trak4_concrete4a 0 0 0 0.500000 0.500000 0 0 0
-( 1720 -800 512 ) ( 1720 -768 512 ) ( 1720 -768 0 ) common/caulk -16 0 0 0.500000 0.500000 0 4 0
-( -1024 -776 528 ) ( 1024 -776 528 ) ( 1024 -776 16 ) common/caulk 0 0 0 0.500000 0.500000 0 4 0
-( -1024 -800 512 ) ( -1024 -768 512 ) ( 1024 -768 512 ) common/caulk 0 0 0 0.500000 0.500000 0 4 0
-( 1024 -768 8 ) ( -1024 -768 8 ) ( -1024 -800 8 ) common/caulk 0 16 0 0.500000 0.500000 0 4 0
-}
-// brush 27
-{
 ( -1088 792 512 ) ( -1088 760 512 ) ( -1088 760 0 ) common/caulk 0 0 0 0.500000 0.500000 0 4 0
 ( 1024 776 512 ) ( -1024 776 512 ) ( -1024 776 0 ) common/caulk 0 0 0 0.500000 0.500000 0 4 0
 ( 1720 752 512 ) ( 1720 784 512 ) ( 1720 784 0 ) common/caulk 0 0 0 0.500000 0.500000 0 4 0
@@ -256,7 +247,7 @@
 ( -1024 752 512 ) ( -1024 784 512 ) ( 1024 784 512 ) common/caulk 0 0 0 0.500000 0.500000 0 4 0
 ( 1024 784 8 ) ( -1024 784 8 ) ( -1024 752 8 ) common/caulk 0 0 0 0.500000 0.500000 0 4 0
 }
-// brush 28
+// brush 27
 {
 ( 1656 256 56 ) ( 880 1024 56 ) ( 1656 1024 56 ) trak4/trak4_concrete1a -144 0 0 0.500000 0.500000 0 0 0
 ( 1408 256 48 ) ( 1408 256 56 ) ( 1408 1024 56 ) common/caulk 0 32 0 0.500000 0.500000 0 4 0
@@ -265,7 +256,7 @@
 ( 1656 264 48 ) ( 1656 1032 48 ) ( 880 1032 48 ) common/caulk 48 0 0 0.500000 0.500000 0 4 0
 ( 1328 -768 48 ) ( 1328 768 296 ) ( 1328 -768 296 ) trak4/trak4_concrete1a 0 0 0 0.500000 0.500000 0 0 0
 }
-// brush 29
+// brush 28
 {
 ( 1016 -768 0 ) ( 1328 -768 48 ) ( 1328 768 48 ) common/caulk 48 0 0 0.500000 0.500000 0 4 0
 ( 1016 768 8 ) ( 1328 768 56 ) ( 1328 -768 56 ) trak4/trak4_concrete1a -144 0 0 0.500000 0.500000 0 0 0
@@ -274,7 +265,7 @@
 ( 1368 768 8 ) ( 1368 768 16 ) ( 1048 768 16 ) common/caulk 48 0 0 0.500000 0.500000 0 4 0
 ( 1328 768 56 ) ( 1328 768 48 ) ( 1328 -768 48 ) common/caulk 0 0 0 0.500000 0.500000 0 4 0
 }
-// brush 30
+// brush 29
 {
 ( 1656 -784 48 ) ( 1656 784 48 ) ( 1416 784 48 ) common/caulk 0 0 0 0.500000 0.500000 0 4 0
 ( 1416 784 56 ) ( 1656 784 56 ) ( 1656 -784 56 ) trak4/trak4_tile2b -128 0 0 0.500000 0.500000 0 0 0
@@ -283,7 +274,7 @@
 ( 1656 768 48 ) ( 1656 768 56 ) ( 1416 768 56 ) common/caulk 0 0 0 0.500000 0.500000 0 4 0
 ( 1720 -784 48 ) ( 1720 -784 56 ) ( 1720 784 56 ) common/caulk 0 0 0 0.500000 0.500000 0 4 0
 }
-// brush 31
+// brush 30
 {
 ( 1616 504 56 ) ( 1616 576 56 ) ( 1536 576 56 ) common/caulk 48 0 0 0.500000 0.500000 0 4 0
 ( 1568 576 304 ) ( 1648 576 304 ) ( 1648 504 304 ) common/caulk 48 0 0 0.500000 0.500000 0 4 0
@@ -292,7 +283,7 @@
 ( 1624 576 -144 ) ( 1624 576 -136 ) ( 1544 576 -136 ) trak4/trak4_plaster1 -144 0 0 0.500000 0.500000 0 0 0
 ( 1624 504 -144 ) ( 1624 504 -136 ) ( 1624 576 -136 ) trak4/trak4_plaster1 0 0 0 0.500000 0.500000 0 0 0
 }
-// brush 32
+// brush 31
 {
 ( 1624 -520 -144 ) ( 1624 -520 -136 ) ( 1624 -448 -136 ) trak4/trak4_plaster1 0 0 0 0.500000 0.500000 0 0 0
 ( 1640 -416 -144 ) ( 1640 -416 -136 ) ( 1560 -416 -136 ) trak4/trak4_plaster1 -144 0 0 0.500000 0.500000 0 0 0
@@ -301,7 +292,7 @@
 ( 1568 -448 304 ) ( 1648 -448 304 ) ( 1648 -520 304 ) common/caulk 48 0 0 0.500000 0.500000 0 4 0
 ( 1616 -520 56 ) ( 1616 -448 56 ) ( 1536 -448 56 ) common/caulk 48 0 0 0.500000 0.500000 0 4 0
 }
-// brush 33
+// brush 32
 {
 ( 1616 -24 56 ) ( 1616 48 56 ) ( 1536 48 56 ) common/caulk 48 -32 0 0.500000 0.500000 0 4 0
 ( 1568 48 304 ) ( 1648 48 304 ) ( 1648 -24 304 ) common/caulk 48 -32 0 0.500000 0.500000 0 4 0
@@ -310,7 +301,7 @@
 ( 1632 80 -144 ) ( 1632 80 -136 ) ( 1552 80 -136 ) trak4/trak4_plaster1 -144 0 0 0.500000 0.500000 0 0 0
 ( 1624 -24 -144 ) ( 1624 -24 -136 ) ( 1624 48 -136 ) trak4/trak4_plaster1 0 0 0 0.500000 0.500000 0 0 0
 }
-// brush 34
+// brush 33
 {
 ( 1704 784 48 ) ( 1704 792 48 ) ( 1696 792 48 ) common/caulk 32 0 0 0.500000 0.500000 0 4 0
 ( 1720 792 512 ) ( 1728 792 512 ) ( 1728 784 512 ) common/caulk 32 0 0 0.500000 0.500000 0 4 0
@@ -319,7 +310,7 @@
 ( 1728 776 320 ) ( 1728 776 512 ) ( 1720 776 512 ) common/caulk 32 0 0 0.500000 0.500000 0 4 0
 ( 1728 776 320 ) ( 1728 776 512 ) ( 1728 784 512 ) common/caulk 0 0 0 0.500000 0.500000 0 4 0
 }
-// brush 35
+// brush 34
 {
 ( 1624 -32 304 ) ( 1656 -32 312 ) ( 1624 -32 312 ) trak4/trak4_plaster1 -144 -16 0 0.500000 0.500000 0 0 0
 ( 1728 576 304 ) ( 1728 768 304 ) ( 1408 768 304 ) trak4/trak4_plaster1 -144 0 0 0.500000 0.500000 0 0 0
@@ -328,7 +319,7 @@
 ( 1408 768 416 ) ( 1408 768 576 ) ( 1408 576 576 ) common/caulk 0 0 0 0.500000 0.500000 0 4 0
 ( 1400 -768 416 ) ( 1400 -768 576 ) ( 1720 -768 576 ) common/caulk 48 0 0 0.500000 0.500000 0 4 0
 }
-// brush 36
+// brush 35
 {
 ( 1624 0 304 ) ( 1624 -8 312 ) ( 1624 0 312 ) trak4/trak4_plaster1 0 0 0 0.500000 0.500000 0 0 0
 ( 1624 -32 304 ) ( 1624 -32 312 ) ( 1656 -32 312 ) common/caulk 48 -16 0 0.500000 0.500000 0 4 0
@@ -337,7 +328,7 @@
 ( 1408 768 416 ) ( 1408 768 576 ) ( 1408 576 576 ) common/caulk 0 0 0 0.500000 0.500000 0 4 0
 ( 1720 768 416 ) ( 1720 768 576 ) ( 1400 768 576 ) common/caulk 48 0 0 0.500000 0.500000 0 4 0
 }
-// brush 37
+// brush 36
 {
 ( 1656 32 304 ) ( 1624 32 312 ) ( 1656 32 312 ) trak4/trak4_plaster1 -144 0 0 0.500000 0.500000 0 0 0
 ( 1624 0 304 ) ( 1624 0 312 ) ( 1624 -8 312 ) common/caulk 0 -16 0 0.500000 0.500000 0 4 0
@@ -346,7 +337,7 @@
 ( 1720 576 416 ) ( 1720 576 576 ) ( 1720 768 576 ) common/caulk 0 0 0 0.500000 0.500000 0 4 0
 ( 1720 768 416 ) ( 1720 768 576 ) ( 1400 768 576 ) common/caulk 48 0 0 0.500000 0.500000 0 4 0
 }
-// brush 38
+// brush 37
 {
 ( 1688 -8 304 ) ( 1688 0 312 ) ( 1688 -8 312 ) trak4/trak4_plaster1 0 0 0 0.500000 0.500000 0 0 0
 ( 1656 32 304 ) ( 1656 32 312 ) ( 1624 32 312 ) common/caulk 48 -16 0 0.500000 0.500000 0 4 0
@@ -355,7 +346,7 @@
 ( 1384 768 312 ) ( 1704 768 312 ) ( 1704 576 312 ) trak4/trak4_tile3c 0 0 0 0.500000 0.500000 0 0 0
 ( 1720 576 416 ) ( 1720 576 576 ) ( 1720 768 576 ) common/caulk 0 0 0 0.500000 0.500000 0 4 0
 }
-// brush 39
+// brush 38
 {
 ( 1656 -8 312 ) ( 1624 0 312 ) ( 1656 0 312 ) eagle/ladderclip -8 -8 0 0.500000 0.500000 0 13 0
 ( 1632 -28 56 ) ( 1632 20 56 ) ( 1628 20 56 ) eagle/ladderclip -8 -8 0 0.500000 0.500000 0 13 0
@@ -364,7 +355,7 @@
 ( 1632 8 56 ) ( 1632 8 304 ) ( 1628 8 304 ) eagle/ladderclip -8 0 0 0.500000 0.500000 0 13 0
 ( 1632 -28 56 ) ( 1632 -28 304 ) ( 1632 20 304 ) eagle/ladderclip 8 0 0 0.500000 0.500000 0 13 0
 }
-// brush 40
+// brush 39
 {
 ( 1656 -8 312 ) ( 1624 0 312 ) ( 1656 0 312 ) trak4/trak4_rust2 -144 0 0 0.500000 0.500000 0 0 0
 ( 1632 -4 56 ) ( 1632 -4 304 ) ( 1632 0 304 ) trak4/trak4_rust2 0 0 0 0.500000 0.500000 0 0 0
@@ -373,7 +364,7 @@
 ( 1624 -4 56 ) ( 1624 -4 304 ) ( 1628 -4 304 ) trak4/trak4_rust2 -144 0 0 0.500000 0.500000 0 0 0
 ( 1628 -4 56 ) ( 1628 0 56 ) ( 1624 0 56 ) common/caulk 48 -8 0 0.500000 0.500000 0 4 0
 }
-// brush 41
+// brush 40
 {
 ( 1688 -32 48 ) ( 1688 -32 56 ) ( 1688 32 56 ) common/cushion 0 0 0 0.500000 0.500000 0 7 0
 ( 1688 32 48 ) ( 1688 32 56 ) ( 1624 32 56 ) common/cushion 48 0 0 0.500000 0.500000 0 7 0
@@ -382,7 +373,7 @@
 ( 1624 32 56 ) ( 1688 32 56 ) ( 1688 -32 56 ) common/cushion 48 0 0 0.500000 0.500000 0 7 0
 ( 1688 -32 48 ) ( 1688 32 48 ) ( 1624 32 48 ) common/cushion 48 0 0 0.500000 0.500000 0 7 0
 }
-// brush 42
+// brush 41
 {
 ( 1528 -64 328 ) ( 1528 -48 400 ) ( 1528 48 400 ) trak4/trak4_plaster3c 0 0 0 0.500000 0.500000 0 0 0
 ( 1528 48 328 ) ( 1528 48 400 ) ( 1400 48 400 ) trak4/trak4_plaster3c 0 0 0 0.500000 0.500000 0 0 0
@@ -391,7 +382,7 @@
 ( 1400 -64 384 ) ( 1400 64 384 ) ( 1528 64 384 ) trak4/trak4_plaster1 -256 0 0 0.500000 0.500000 0 0 0
 ( 1528 -24 312 ) ( 1528 64 312 ) ( 1456 64 312 ) common/caulk 0 0 0 0.500000 0.500000 0 4 0
 }
-// brush 43
+// brush 42
 {
 ( 1624 176 328 ) ( 1624 192 400 ) ( 1624 288 400 ) trak4/trak4_plaster3c 0 0 0 0.500000 0.500000 0 0 0
 ( 1624 288 328 ) ( 1624 288 400 ) ( 1496 288 400 ) trak4/trak4_plaster3c 0 0 0 0.500000 0.500000 0 0 0
@@ -400,7 +391,7 @@
 ( 1496 176 384 ) ( 1496 304 384 ) ( 1624 304 384 ) trak4/trak4_plaster1 -64 -32 0 0.500000 0.500000 0 0 0
 ( 1624 216 312 ) ( 1624 304 312 ) ( 1552 304 312 ) common/caulk 0 -32 0 0.500000 0.500000 0 4 0
 }
-// brush 44
+// brush 43
 {
 ( 1528 424 312 ) ( 1528 512 312 ) ( 1456 512 312 ) common/caulk 0 0 0 0.500000 0.500000 0 4 0
 ( 1400 384 384 ) ( 1400 512 384 ) ( 1528 512 384 ) trak4/trak4_plaster1 -256 384 0 0.500000 0.500000 0 0 0
@@ -409,7 +400,7 @@
 ( 1528 496 328 ) ( 1528 496 400 ) ( 1400 496 400 ) trak4/trak4_plaster3c 0 0 0 0.500000 0.500000 0 0 0
 ( 1528 384 328 ) ( 1528 400 400 ) ( 1528 496 400 ) trak4/trak4_plaster3c 0 0 0 0.500000 0.500000 0 0 0
 }
-// brush 45
+// brush 44
 {
 ( 1624 592 328 ) ( 1624 608 400 ) ( 1624 704 400 ) trak4/trak4_plaster3c 0 0 0 0.500000 0.500000 0 0 0
 ( 1624 704 328 ) ( 1624 704 400 ) ( 1496 704 400 ) trak4/trak4_plaster3c 0 0 0 0.500000 0.500000 0 0 0
@@ -418,7 +409,7 @@
 ( 1496 592 384 ) ( 1496 720 384 ) ( 1624 720 384 ) trak4/trak4_plaster1 -64 288 0 0.500000 0.500000 0 0 0
 ( 1624 632 312 ) ( 1624 720 312 ) ( 1552 720 312 ) common/caulk 0 -32 0 0.500000 0.500000 0 4 0
 }
-// brush 46
+// brush 45
 {
 ( 1624 -680 312 ) ( 1624 -592 312 ) ( 1552 -592 312 ) common/caulk 0 -32 0 0.500000 0.500000 0 4 0
 ( 1496 -720 384 ) ( 1496 -592 384 ) ( 1624 -592 384 ) trak4/trak4_plaster1 -64 224 0 0.500000 0.500000 0 0 0
@@ -427,7 +418,7 @@
 ( 1624 -608 328 ) ( 1624 -608 400 ) ( 1496 -608 400 ) trak4/trak4_plaster3c 0 0 0 0.500000 0.500000 0 0 0
 ( 1624 -720 328 ) ( 1624 -704 400 ) ( 1624 -608 400 ) trak4/trak4_plaster3c 0 0 0 0.500000 0.500000 0 0 0
 }
-// brush 47
+// brush 46
 {
 ( 1528 -512 328 ) ( 1528 -496 400 ) ( 1528 -400 400 ) trak4/trak4_plaster3c 0 0 0 0.500000 0.500000 0 0 0
 ( 1528 -400 328 ) ( 1528 -400 400 ) ( 1400 -400 400 ) trak4/trak4_plaster3c 0 0 0 0.500000 0.500000 0 0 0
@@ -436,7 +427,7 @@
 ( 1400 -512 384 ) ( 1400 -384 384 ) ( 1528 -384 384 ) trak4/trak4_plaster1 -256 128 0 0.500000 0.500000 0 0 0
 ( 1528 -472 312 ) ( 1528 -384 312 ) ( 1456 -384 312 ) common/caulk 0 0 0 0.500000 0.500000 0 4 0
 }
-// brush 48
+// brush 47
 {
 ( 1624 -264 312 ) ( 1624 -176 312 ) ( 1552 -176 312 ) common/caulk 0 -32 0 0.500000 0.500000 0 4 0
 ( 1496 -304 384 ) ( 1496 -176 384 ) ( 1624 -176 384 ) trak4/trak4_plaster1 -64 32 0 0.500000 0.500000 0 0 0
@@ -445,7 +436,7 @@
 ( 1624 -192 328 ) ( 1624 -192 400 ) ( 1496 -192 400 ) trak4/trak4_plaster3c 0 0 0 0.500000 0.500000 0 0 0
 ( 1624 -304 328 ) ( 1624 -288 400 ) ( 1624 -192 400 ) trak4/trak4_plaster3c 0 0 0 0.500000 0.500000 0 0 0
 }
-// brush 49
+// brush 48
 {
 ( 1408 680 176 ) ( 1408 680 424 ) ( 1408 744 424 ) trak4/trak4_plaster3c 0 112 0 0.500000 0.500000 0 0 0
 ( 1400 768 176 ) ( 1400 768 424 ) ( 1392 768 424 ) common/caulk 16 48 0 0.500000 0.500000 0 4 0
@@ -454,7 +445,7 @@
 ( 1392 744 312 ) ( 1400 744 312 ) ( 1400 680 312 ) trak4/trak4_tile3c 0 0 0 0.500000 0.500000 0 0 0
 ( 1400 688 56 ) ( 1400 752 56 ) ( 1392 752 56 ) common/caulk 16 0 0 0.500000 0.500000 0 4 0
 }
-// brush 50
+// brush 49
 {
 ( 1408 -544 184 ) ( 1408 -544 216 ) ( 1408 -480 216 ) trak4/trak4_plaster3c 0 112 0 0.500000 0.500000 0 0 0
 ( 1440 -704 200 ) ( 1440 -704 232 ) ( 1408 -704 232 ) trak4/trak4_plaster1 16 112 0 0.500000 0.500000 0 0 0
@@ -463,7 +454,7 @@
 ( 1392 -496 312 ) ( 1424 -496 312 ) ( 1424 -560 312 ) trak4/trak4_tile3c 0 0 0 0.500000 0.500000 0 0 0
 ( 1424 -544 56 ) ( 1424 -480 56 ) ( 1392 -480 56 ) common/caulk 16 0 0 0.500000 0.500000 0 4 0
 }
-// brush 51
+// brush 50
 {
 ( 1392 -152 144 ) ( 1400 -720 144 ) ( 1400 -152 144 ) trak4/trak4_plaster1 16 0 0 0.500000 0.500000 0 0 0
 ( 1408 -784 112 ) ( 1408 -784 120 ) ( 1408 1192 120 ) trak4/trak4_plaster3c 0 112 0 0.500000 0.500000 0 0 0
@@ -472,7 +463,7 @@
 ( 1400 -704 112 ) ( 1400 -704 120 ) ( 1416 -704 120 ) common/caulk 16 48 0 0.500000 0.500000 0 4 0
 ( 1392 1200 312 ) ( 1408 1200 312 ) ( 1408 -776 312 ) trak4/trak4_tile3c 0 0 0 0.500000 0.500000 0 0 0
 }
-// brush 52
+// brush 51
 {
 ( 1408 -1000 112 ) ( 1400 -432 112 ) ( 1408 -432 112 ) trak4/trak4_plaster1 0 0 0 0.500000 0.500000 0 0 0
 ( 1408 -1016 144 ) ( 1408 -1016 152 ) ( 1408 960 152 ) trak4/trak4_plaster3c 0 112 0 0.500000 0.500000 0 0 0
@@ -481,7 +472,7 @@
 ( 1392 -640 160 ) ( 1392 -640 168 ) ( 1408 -640 168 ) trak4/trak4_plaster1 0 112 0 0.500000 0.500000 0 0 0
 ( 1408 -1216 56 ) ( 1408 760 56 ) ( 1392 760 56 ) common/caulk 0 0 0 0.500000 0.500000 0 4 0
 }
-// brush 53
+// brush 52
 {
 ( -160 -24 8 ) ( -160 64 8 ) ( -232 64 8 ) common/caulk -16 0 0 0.500000 0.500000 0 4 0
 ( -288 -64 80 ) ( -288 64 80 ) ( -160 64 80 ) trak4/trak4_plaster1 -464 0 0 0.500000 0.500000 0 0 0
@@ -490,7 +481,7 @@
 ( -160 48 24 ) ( -160 48 96 ) ( -288 48 96 ) trak4/trak4_plaster3b -96 -96 0 0.500000 0.500000 0 0 0
 ( -160 -64 24 ) ( -160 -48 96 ) ( -160 48 96 ) trak4/trak4_plaster3b -128 -96 0 0.500000 0.500000 0 0 0
 }
-// brush 54
+// brush 53
 {
 ( 32 240 24 ) ( 32 256 96 ) ( 32 352 96 ) trak4/trak4_plaster3b -224 -96 0 0.500000 0.500000 0 0 0
 ( 32 352 24 ) ( 32 352 96 ) ( -96 352 96 ) trak4/trak4_plaster3b -480 -96 0 0.500000 0.500000 0 0 0
@@ -499,7 +490,7 @@
 ( -96 240 80 ) ( -96 368 80 ) ( 32 368 80 ) trak4/trak4_plaster1 -336 96 0 0.500000 0.500000 0 0 0
 ( 32 280 8 ) ( 32 368 8 ) ( -40 368 8 ) common/caulk -16 32 0 0.500000 0.500000 0 4 0
 }
-// brush 55
+// brush 54
 {
 ( 224 600 8 ) ( 224 688 8 ) ( 152 688 8 ) common/caulk -16 32 0 0.500000 0.500000 0 4 0
 ( 96 560 80 ) ( 96 688 80 ) ( 224 688 80 ) trak4/trak4_plaster1 -208 224 0 0.500000 0.500000 0 0 0
@@ -508,7 +499,7 @@
 ( 224 672 24 ) ( 224 672 96 ) ( 96 672 96 ) trak4/trak4_plaster3b -352 -96 0 0.500000 0.500000 0 0 0
 ( 224 560 24 ) ( 224 576 96 ) ( 224 672 96 ) trak4/trak4_plaster3b -352 -96 0 0.500000 0.500000 0 0 0
 }
-// brush 56
+// brush 55
 {
 ( 32 -368 24 ) ( 32 -352 96 ) ( 32 -256 96 ) trak4/trak4_plaster3b 480 -96 0 0.500000 0.500000 0 0 0
 ( 32 -256 24 ) ( 32 -256 96 ) ( -96 -256 96 ) trak4/trak4_plaster3b -480 -96 0 0.500000 0.500000 0 0 0
@@ -517,7 +508,7 @@
 ( -96 -368 80 ) ( -96 -240 80 ) ( 32 -240 80 ) trak4/trak4_plaster1 -336 -96 0 0.500000 0.500000 0 0 0
 ( 32 -328 8 ) ( 32 -240 8 ) ( -40 -240 8 ) common/caulk -16 -32 0 0.500000 0.500000 0 4 0
 }
-// brush 57
+// brush 56
 {
 ( 224 -648 8 ) ( 224 -560 8 ) ( 152 -560 8 ) common/caulk -16 -32 0 0.500000 0.500000 0 4 0
 ( 96 -688 80 ) ( 96 -560 80 ) ( 224 -560 80 ) trak4/trak4_plaster1 -208 -224 0 0.500000 0.500000 0 0 0
@@ -526,7 +517,7 @@
 ( 224 -576 24 ) ( 224 -576 96 ) ( 96 -576 96 ) trak4/trak4_plaster3b -352 -96 0 0.500000 0.500000 0 0 0
 ( 224 -688 24 ) ( 224 -672 96 ) ( 224 -576 96 ) trak4/trak4_plaster3b 96 -96 0 0.500000 0.500000 0 0 0
 }
-// brush 58
+// brush 57
 {
 ( 800 48 96 ) ( 800 -48 96 ) ( 800 -64 24 ) trak4/trak4_plaster3b -128 -96 0 0.500000 0.500000 0 0 0
 ( 928 48 96 ) ( 800 48 96 ) ( 800 48 24 ) trak4/trak4_plaster3b -160 -96 0 0.500000 0.500000 0 0 0
@@ -535,7 +526,7 @@
 ( 800 64 80 ) ( 928 64 80 ) ( 928 -64 80 ) trak4/trak4_plaster1 -16 0 0 0.500000 0.500000 0 0 0
 ( 872 64 8 ) ( 800 64 8 ) ( 800 -24 8 ) common/caulk 48 0 0 0.500000 0.500000 0 4 0
 }
-// brush 59
+// brush 58
 {
 ( 680 368 8 ) ( 608 368 8 ) ( 608 280 8 ) common/caulk 48 32 0 0.500000 0.500000 0 4 0
 ( 608 368 80 ) ( 736 368 80 ) ( 736 240 80 ) trak4/trak4_plaster1 -144 96 0 0.500000 0.500000 0 0 0
@@ -544,7 +535,7 @@
 ( 736 352 96 ) ( 608 352 96 ) ( 608 352 24 ) trak4/trak4_plaster3b 224 -96 0 0.500000 0.500000 0 0 0
 ( 608 352 96 ) ( 608 256 96 ) ( 608 240 24 ) trak4/trak4_plaster3b -224 -96 0 0.500000 0.500000 0 0 0
 }
-// brush 60
+// brush 59
 {
 ( 416 672 96 ) ( 416 576 96 ) ( 416 560 24 ) trak4/trak4_plaster3b -352 -96 0 0.500000 0.500000 0 0 0
 ( 544 672 96 ) ( 416 672 96 ) ( 416 672 24 ) trak4/trak4_plaster3b 96 -96 0 0.500000 0.500000 0 0 0
@@ -553,7 +544,7 @@
 ( 416 688 80 ) ( 544 688 80 ) ( 544 560 80 ) trak4/trak4_plaster1 240 224 0 0.500000 0.500000 0 0 0
 ( 488 688 8 ) ( 416 688 8 ) ( 416 600 8 ) common/caulk 48 32 0 0.500000 0.500000 0 4 0
 }
-// brush 61
+// brush 60
 {
 ( 680 -240 8 ) ( 608 -240 8 ) ( 608 -328 8 ) common/caulk 48 32 0 0.500000 0.500000 0 4 0
 ( 608 -240 80 ) ( 736 -240 80 ) ( 736 -368 80 ) trak4/trak4_plaster1 -144 -96 0 0.500000 0.500000 0 0 0
@@ -562,7 +553,7 @@
 ( 736 -256 96 ) ( 608 -256 96 ) ( 608 -256 24 ) trak4/trak4_plaster3b 224 -96 0 0.500000 0.500000 0 0 0
 ( 608 -256 96 ) ( 608 -352 96 ) ( 608 -368 24 ) trak4/trak4_plaster3b -32 -96 0 0.500000 0.500000 0 0 0
 }
-// brush 62
+// brush 61
 {
 ( 416 -576 96 ) ( 416 -672 96 ) ( 416 -688 24 ) trak4/trak4_plaster3b 96 -96 0 0.500000 0.500000 0 0 0
 ( 544 -576 96 ) ( 416 -576 96 ) ( 416 -576 24 ) trak4/trak4_plaster3b 96 -96 0 0.500000 0.500000 0 0 0
@@ -571,7 +562,7 @@
 ( 416 -560 80 ) ( 544 -560 80 ) ( 544 -688 80 ) trak4/trak4_plaster1 240 -224 0 0.500000 0.500000 0 0 0
 ( 488 -560 8 ) ( 416 -560 8 ) ( 416 -648 8 ) common/caulk 48 32 0 0.500000 0.500000 0 4 0
 }
-// brush 63
+// brush 62
 {
 ( 368 -24 8 ) ( 368 64 8 ) ( 296 64 8 ) common/caulk 16 0 0 0.500000 0.500000 0 4 0
 ( 240 -64 80 ) ( 240 64 80 ) ( 368 64 80 ) trak4/trak4_plaster1 16 0 0 0.500000 0.500000 0 0 0
@@ -580,7 +571,7 @@
 ( 368 48 24 ) ( 368 48 96 ) ( 240 48 96 ) trak4/trak4_plaster3b -128 -96 0 0.500000 0.500000 0 0 0
 ( 368 -64 24 ) ( 368 -48 96 ) ( 368 48 96 ) trak4/trak4_plaster3b -128 -96 0 0.500000 0.500000 0 0 0
 }
-// brush 64
+// brush 63
 {
 ( -896 -400 400 ) ( -896 -496 400 ) ( -896 -512 328 ) trak4/trak4_plaster3 384 0 0 0.500000 0.500000 0 0 0
 ( -768 -400 400 ) ( -896 -400 400 ) ( -896 -400 328 ) trak4/trak4_plaster3 0 0 0 0.500000 0.500000 0 0 0
@@ -588,6 +579,15 @@
 ( -896 -496 400 ) ( -768 -496 400 ) ( -768 -496 328 ) trak4/trak4_plaster3 0 0 0 0.500000 0.500000 0 0 0
 ( -896 -384 384 ) ( -768 -384 384 ) ( -768 -512 384 ) trak4/trak4_plaster1 -112 -384 0 0.500000 0.500000 0 0 0
 ( -824 -384 312 ) ( -896 -384 312 ) ( -896 -472 312 ) common/caulk 16 0 0 0.500000 0.500000 0 4 0
+}
+// brush 64
+{
+( 1024 -768 8 ) ( -1024 -768 8 ) ( -1024 -800 8 ) common/caulk 0 16 0 0.500000 0.500000 0 4 0
+( -1024 -800 512 ) ( -1024 -768 512 ) ( 1024 -768 512 ) common/caulk 0 0 0 0.500000 0.500000 0 4 0
+( -1024 -776 528 ) ( 1024 -776 528 ) ( 1024 -776 16 ) common/caulk 0 0 0 0.500000 0.500000 0 4 0
+( 1720 -800 512 ) ( 1720 -768 512 ) ( 1720 -768 0 ) common/caulk -16 0 0 0.500000 0.500000 0 4 0
+( 1728 -768 512 ) ( -320 -768 512 ) ( -320 -768 0 ) trak4/trak4_concrete4a 0 0 0 0.500000 0.500000 0 0 0
+( -1088 -776 512 ) ( -1088 -808 512 ) ( -1088 -808 0 ) common/caulk -16 0 0 0.500000 0.500000 0 4 0
 }
 }
 // entity 1
@@ -796,382 +796,6 @@
 }
 // entity 30
 {
-"classname" "info_player_deathmatch"
-"origin" "-96 304 32"
-"angle" "180"
-}
-// entity 31
-{
-"angle" "180"
-"origin" "96 624 32"
-"classname" "info_player_deathmatch"
-}
-// entity 32
-{
-"classname" "info_player_deathmatch"
-"origin" "-96 -304 32"
-"angle" "180"
-}
-// entity 33
-{
-"angle" "180"
-"origin" "96 -624 32"
-"classname" "info_player_deathmatch"
-}
-// entity 34
-{
-"angle" "360"
-"origin" "736 -304 32"
-"classname" "info_player_deathmatch"
-}
-// entity 35
-{
-"classname" "info_player_deathmatch"
-"origin" "544 -624 32"
-"angle" "360"
-}
-// entity 36
-{
-"angle" "360"
-"origin" "736 304 32"
-"classname" "info_player_deathmatch"
-}
-// entity 37
-{
-"classname" "info_player_deathmatch"
-"origin" "544 624 32"
-"angle" "360"
-}
-// entity 38
-{
-"classname" "info_player_deathmatch"
-"origin" "1656 496 80"
-"angle" "270"
-}
-// entity 39
-{
-"angle" "90"
-"origin" "1656 -496 80"
-"classname" "info_player_deathmatch"
-}
-// entity 40
-{
-"classname" "info_player_deathmatch"
-"origin" "1688 0 80"
-"angle" "180"
-}
-// entity 41
-{
-"angle" "270"
-"origin" "-1024 496 80"
-"classname" "info_player_deathmatch"
-}
-// entity 42
-{
-"classname" "info_player_deathmatch"
-"origin" "-1024 -496 80"
-"angle" "90"
-}
-// entity 43
-{
-"angle" "360"
-"origin" "-1056 0 80"
-"classname" "info_player_deathmatch"
-}
-// entity 44
-{
-"classname" "info_player_deathmatch"
-"origin" "1560 0 336"
-"angle" "180"
-}
-// entity 45
-{
-"angle" "180"
-"origin" "1560 448 336"
-"classname" "info_player_deathmatch"
-}
-// entity 46
-{
-"classname" "info_player_deathmatch"
-"origin" "1560 -448 336"
-"angle" "180"
-}
-// entity 47
-{
-"angle" "360"
-"origin" "-928 0 336"
-"classname" "info_player_deathmatch"
-}
-// entity 48
-{
-"classname" "info_player_deathmatch"
-"origin" "-928 448 336"
-"angle" "360"
-}
-// entity 49
-{
-"angle" "360"
-"origin" "-928 -448 336"
-"classname" "info_player_deathmatch"
-}
-// entity 50
-{
-"angle" "360"
-"g_gametype" "3,4"
-"team" "blue"
-"origin" "-928 448 336"
-"classname" "info_ut_spawn"
-}
-// entity 51
-{
-"angle" "360"
-"classname" "info_ut_spawn"
-"origin" "-928 0 336"
-"team" "blue"
-"g_gametype" "3,4"
-}
-// entity 52
-{
-"angle" "360"
-"g_gametype" "3,4"
-"team" "blue"
-"origin" "-928 -448 336"
-"classname" "info_ut_spawn"
-}
-// entity 53
-{
-"angle" "360"
-"classname" "info_ut_spawn"
-"origin" "-1024 -656 336"
-"team" "blue"
-"g_gametype" "3,4"
-}
-// entity 54
-{
-"angle" "360"
-"g_gametype" "3,4"
-"team" "blue"
-"origin" "-1024 -240 336"
-"classname" "info_ut_spawn"
-}
-// entity 55
-{
-"angle" "360"
-"classname" "info_ut_spawn"
-"origin" "-1024 240 336"
-"team" "blue"
-"g_gametype" "3,4"
-}
-// entity 56
-{
-"angle" "360"
-"g_gametype" "3,4"
-"team" "blue"
-"origin" "-1024 656 336"
-"classname" "info_ut_spawn"
-}
-// entity 57
-{
-"angle" "270"
-"classname" "info_ut_spawn"
-"origin" "-1024 496 80"
-"team" "blue"
-"g_gametype" "3,4"
-}
-// entity 58
-{
-"g_gametype" "3,4"
-"team" "blue"
-"origin" "-1024 544 80"
-"classname" "info_ut_spawn"
-"angle" "270"
-}
-// entity 59
-{
-"angle" "270"
-"classname" "info_ut_spawn"
-"origin" "-1024 448 80"
-"team" "blue"
-"g_gametype" "3,4"
-}
-// entity 60
-{
-"g_gametype" "3,4"
-"team" "blue"
-"origin" "-1056 0 80"
-"classname" "info_ut_spawn"
-"angle" "360"
-}
-// entity 61
-{
-"angle" "360"
-"classname" "info_ut_spawn"
-"origin" "-1056 48 80"
-"team" "blue"
-"g_gametype" "3,4"
-}
-// entity 62
-{
-"g_gametype" "3,4"
-"team" "blue"
-"origin" "-1056 -48 80"
-"classname" "info_ut_spawn"
-"angle" "360"
-}
-// entity 63
-{
-"angle" "90"
-"classname" "info_ut_spawn"
-"origin" "-1024 -496 80"
-"team" "blue"
-"g_gametype" "3,4"
-}
-// entity 64
-{
-"g_gametype" "3,4"
-"team" "blue"
-"origin" "-1024 -544 80"
-"classname" "info_ut_spawn"
-"angle" "90"
-}
-// entity 65
-{
-"angle" "90"
-"classname" "info_ut_spawn"
-"origin" "-1024 -448 80"
-"team" "blue"
-"g_gametype" "3,4"
-}
-// entity 66
-{
-"angle" "90"
-"classname" "info_ut_spawn"
-"origin" "1656 -448 80"
-"team" "red"
-"g_gametype" "3,4"
-}
-// entity 67
-{
-"g_gametype" "3,4"
-"team" "red"
-"origin" "1656 -544 80"
-"classname" "info_ut_spawn"
-"angle" "90"
-}
-// entity 68
-{
-"angle" "90"
-"classname" "info_ut_spawn"
-"origin" "1656 -496 80"
-"team" "red"
-"g_gametype" "3,4"
-}
-// entity 69
-{
-"g_gametype" "3,4"
-"team" "red"
-"origin" "1688 -48 80"
-"classname" "info_ut_spawn"
-"angle" "180"
-}
-// entity 70
-{
-"angle" "360"
-"classname" "info_ut_spawn"
-"origin" "1688 48 80"
-"team" "red"
-"g_gametype" "3,4"
-}
-// entity 71
-{
-"g_gametype" "3,4"
-"team" "red"
-"origin" "1688 0 80"
-"classname" "info_ut_spawn"
-"angle" "360"
-}
-// entity 72
-{
-"angle" "270"
-"classname" "info_ut_spawn"
-"origin" "1656 448 80"
-"team" "red"
-"g_gametype" "3,4"
-}
-// entity 73
-{
-"g_gametype" "3,4"
-"team" "red"
-"origin" "1656 544 80"
-"classname" "info_ut_spawn"
-"angle" "270"
-}
-// entity 74
-{
-"angle" "270"
-"classname" "info_ut_spawn"
-"origin" "1656 496 80"
-"team" "red"
-"g_gametype" "3,4"
-}
-// entity 75
-{
-"angle" "180"
-"g_gametype" "3,4"
-"team" "red"
-"origin" "1656 656 336"
-"classname" "info_ut_spawn"
-}
-// entity 76
-{
-"angle" "360"
-"classname" "info_ut_spawn"
-"origin" "1656 240 336"
-"team" "red"
-"g_gametype" "3,4"
-}
-// entity 77
-{
-"angle" "360"
-"g_gametype" "3,4"
-"team" "red"
-"origin" "1656 -240 336"
-"classname" "info_ut_spawn"
-}
-// entity 78
-{
-"angle" "180"
-"classname" "info_ut_spawn"
-"origin" "1656 -656 336"
-"team" "red"
-"g_gametype" "3,4"
-}
-// entity 79
-{
-"angle" "360"
-"g_gametype" "3,4"
-"team" "red"
-"origin" "1560 -448 336"
-"classname" "info_ut_spawn"
-}
-// entity 80
-{
-"angle" "360"
-"classname" "info_ut_spawn"
-"origin" "1560 0 336"
-"team" "red"
-"g_gametype" "3,4"
-}
-// entity 81
-{
-"angle" "360"
-"g_gametype" "3,4"
-"team" "red"
-"origin" "1560 448 336"
-"classname" "info_ut_spawn"
-}
-// entity 82
-{
 "message" "Blue Roof"
 "classname" "trigger_location"
 // brush 0
@@ -1184,7 +808,7 @@
 ( -1088 8 504 ) ( -1088 -8 504 ) ( -1088 -8 312 ) common/trigger 0 0 0 0.500000 0.500000 0 7 0
 }
 }
-// entity 83
+// entity 31
 {
 "classname" "trigger_location"
 "message" "Red Roof"
@@ -1198,7 +822,7 @@
 ( 1720 8 312 ) ( 1400 8 312 ) ( 1400 -8 312 ) common/trigger 0 0 0 0.500000 0.500000 0 7 0
 }
 }
-// entity 84
+// entity 32
 {
 "message" "Blue Base"
 "classname" "trigger_location"
@@ -1212,7 +836,7 @@
 ( -1088 768 304 ) ( -1088 -768 304 ) ( -1088 -768 56 ) common/trigger 0 0 0 0.500000 0.500000 0 7 0
 }
 }
-// entity 85
+// entity 33
 {
 "classname" "trigger_location"
 "message" "Red Base"
@@ -1226,21 +850,282 @@
 ( 1656 768 56 ) ( 1336 768 56 ) ( 1336 -768 56 ) common/trigger 0 0 0 0.500000 0.500000 0 7 0
 }
 }
-// entity 86
+// entity 34
 {
 "message" "Bullet Magnet"
 "origin" "320 0 320"
 "classname" "target_location"
 }
-// entity 87
+// entity 35
 {
 "targetname" "intermission"
 "origin" "-208 0 328"
 "classname" "target_position"
 }
-// entity 88
+// entity 36
 {
 "target" "intermission"
 "origin" "320 0 344"
 "classname" "info_player_intermission"
+}
+// entity 37
+{
+"angle" "270"
+"g_gametype" "3,5,6,7,8"
+"team" "blue"
+"origin" "-1024 -496 80"
+"classname" "info_ut_spawn"
+}
+// entity 38
+{
+"classname" "info_ut_spawn"
+"origin" "-1024 -544 80"
+"team" "blue"
+"g_gametype" "3,5,6,7,8"
+"angle" "270"
+}
+// entity 39
+{
+"angle" "270"
+"g_gametype" "3,5,6,7,8"
+"team" "blue"
+"origin" "-1024 -448 80"
+"classname" "info_ut_spawn"
+}
+// entity 40
+{
+"classname" "info_ut_spawn"
+"origin" "-1024 544 80"
+"team" "blue"
+"g_gametype" "3,5,6,7,8"
+"angle" "90"
+}
+// entity 41
+{
+"angle" "90"
+"g_gametype" "3,5,6,7,8"
+"team" "blue"
+"origin" "-1024 496 80"
+"classname" "info_ut_spawn"
+}
+// entity 42
+{
+"classname" "info_ut_spawn"
+"origin" "-1024 448 80"
+"team" "blue"
+"g_gametype" "3,5,6,7,8"
+"angle" "90"
+}
+// entity 43
+{
+"angle" "360"
+"g_gametype" "3,5,6,7,8"
+"team" "blue"
+"origin" "-1032 0 80"
+"classname" "info_ut_spawn"
+}
+// entity 44
+{
+"classname" "info_ut_spawn"
+"origin" "-1032 48 80"
+"team" "blue"
+"g_gametype" "3,5,6,7,8"
+"angle" "90"
+}
+// entity 45
+{
+"angle" "270"
+"g_gametype" "3,5,6,7,8"
+"team" "blue"
+"origin" "-1032 -48 80"
+"classname" "info_ut_spawn"
+}
+// entity 46
+{
+"classname" "info_ut_spawn"
+"origin" "-928 0 336"
+"team" "blue"
+"g_gametype" "3,5,6,7,8"
+"angle" "360"
+}
+// entity 47
+{
+"angle" "360"
+"g_gametype" "3,5,6,7,8"
+"team" "blue"
+"origin" "-1024 240 336"
+"classname" "info_ut_spawn"
+}
+// entity 48
+{
+"classname" "info_ut_spawn"
+"origin" "-928 448 336"
+"team" "blue"
+"g_gametype" "3,5,6,7,8"
+"angle" "360"
+}
+// entity 49
+{
+"angle" "360"
+"g_gametype" "3,5,6,7,8"
+"team" "blue"
+"origin" "-1024 656 336"
+"classname" "info_ut_spawn"
+}
+// entity 50
+{
+"classname" "info_ut_spawn"
+"origin" "-1024 -240 336"
+"team" "blue"
+"g_gametype" "3,5,6,7,8"
+"angle" "360"
+}
+// entity 51
+{
+"angle" "360"
+"g_gametype" "3,5,6,7,8"
+"team" "blue"
+"origin" "-928 -448 336"
+"classname" "info_ut_spawn"
+}
+// entity 52
+{
+"classname" "info_ut_spawn"
+"origin" "-1024 -656 336"
+"team" "blue"
+"g_gametype" "3,5,6,7,8"
+"angle" "360"
+}
+// entity 53
+{
+"classname" "info_ut_spawn"
+"origin" "1656 -496 80"
+"team" "red"
+"g_gametype" "3,5,6,7,8"
+"angle" "270"
+}
+// entity 54
+{
+"angle" "270"
+"g_gametype" "3,5,6,7,8"
+"team" "red"
+"origin" "1656 -544 80"
+"classname" "info_ut_spawn"
+}
+// entity 55
+{
+"classname" "info_ut_spawn"
+"origin" "1656 -448 80"
+"team" "red"
+"g_gametype" "3,5,6,7,8"
+"angle" "270"
+}
+// entity 56
+{
+"angle" "90"
+"g_gametype" "3,5,6,7,8"
+"team" "red"
+"origin" "1656 544 80"
+"classname" "info_ut_spawn"
+}
+// entity 57
+{
+"classname" "info_ut_spawn"
+"origin" "1656 496 80"
+"team" "red"
+"g_gametype" "3,5,6,7,8"
+"angle" "90"
+}
+// entity 58
+{
+"angle" "90"
+"g_gametype" "3,5,6,7,8"
+"team" "red"
+"origin" "1656 448 80"
+"classname" "info_ut_spawn"
+}
+// entity 59
+{
+"classname" "info_ut_spawn"
+"origin" "1664 0 80"
+"team" "red"
+"g_gametype" "3,5,6,7,8"
+"angle" "180"
+}
+// entity 60
+{
+"angle" "90"
+"g_gametype" "3,5,6,7,8"
+"team" "red"
+"origin" "1664 48 80"
+"classname" "info_ut_spawn"
+}
+// entity 61
+{
+"classname" "info_ut_spawn"
+"origin" "1664 -48 80"
+"team" "red"
+"g_gametype" "3,5,6,7,8"
+"angle" "270"
+}
+// entity 62
+{
+"angle" "180"
+"g_gametype" "3,5,6,7,8"
+"team" "red"
+"origin" "1560 0 336"
+"classname" "info_ut_spawn"
+}
+// entity 63
+{
+"classname" "info_ut_spawn"
+"origin" "1656 240 336"
+"team" "red"
+"g_gametype" "3,5,6,7,8"
+"angle" "180"
+}
+// entity 64
+{
+"angle" "180"
+"g_gametype" "3,5,6,7,8"
+"team" "red"
+"origin" "1560 448 336"
+"classname" "info_ut_spawn"
+}
+// entity 65
+{
+"classname" "info_ut_spawn"
+"origin" "1656 656 336"
+"team" "red"
+"g_gametype" "3,5,6,7,8"
+"angle" "180"
+}
+// entity 66
+{
+"angle" "180"
+"g_gametype" "3,5,6,7,8"
+"team" "red"
+"origin" "1656 -240 336"
+"classname" "info_ut_spawn"
+}
+// entity 67
+{
+"classname" "info_ut_spawn"
+"origin" "1560 -448 336"
+"team" "red"
+"g_gametype" "3,5,6,7,8"
+"angle" "180"
+}
+// entity 68
+{
+"angle" "180"
+"g_gametype" "3,5,6,7,8"
+"team" "red"
+"origin" "1656 -656 336"
+"classname" "info_ut_spawn"
+}
+// entity 69
+{
+"origin" "384 -296 336"
+"classname" "info_player_deathmatch"
 }
