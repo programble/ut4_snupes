@@ -1237,3 +1237,13 @@
 "origin" "1664 -496 80"
 "classname" "info_player_deathmatch"
 }
+// entity 89
+{
+"origin" "1480 0 408"
+"classname" "team_CTF_redflag"
+}
+// entity 90
+{
+"origin" "-848 0 408"
+"classname" "team_CTF_blueflag"
+}
